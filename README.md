@@ -1,4 +1,6 @@
-# 👋 Hey, I'm Jayant Pradhan
+<marquee behavior="scroll" direction="left" scrollamount="6">
+  <h1>💗 👋 Hey, I'm Jayant Pradhan 👨‍💻 💗</h1>
+</marquee>
 
 ### ☕ Java Backend Developer | 🌱 Spring Boot | 🏗️ Microservices
 
@@ -31,7 +33,7 @@ understanding real backend systems.**
 ### Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven" height="55"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,postman,junit" height="55"/>
 </p>
 
 ### Architecture & Messaging
