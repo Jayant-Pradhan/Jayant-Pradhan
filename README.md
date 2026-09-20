@@ -1,41 +1,55 @@
-# Hi 👋, I'm Jayant Pradhan
+# 👋 Hey, I'm Jayant Pradhan
 
-### Java Backend Developer | Spring Boot | Microservices
+### ☕ Java Backend Developer | 🌱 Spring Boot | 🏗️ Microservices
 
-I build backend applications and distributed systems using Java and Spring Boot, with a focus on scalable microservices, event-driven architecture, and reliable backend services.
+🚀 I build backend systems where **services communicate, events flow, data is
+secured, and performance matters.**
 
+💻 My primary focus is **Java Backend Development** with:
+
+☕ **Java**  
+🌱 **Spring Boot**  
+🏗️ **Microservices**  
+📨 **Apache Kafka**  
+⚡ **Redis**  
+🗄️ **MySQL & Oracle SQL**  
+🔐 **Spring Security**  
+📦 **Maven**  
+🐳 **Docker**  
+☸️ **Kubernetes**
+
+### 🧠 How I Learn
+
+💡 Learn → 🛠️ Build → 🐛 Debug → 🔧 Improve → 🚀 Repeat
+
+🎯 **Focused on becoming a strong Java Backend Engineer by building and
+understanding real backend systems.**
 ---
 
 ## 🛠️ Tech Stack
 
-### ☕ Backend Development
+### Backend
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven" height="55"/>
 </p>
 
-### 📨 Messaging & Caching
+### Architecture & Messaging
 
-<p>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kafka,redis" height="55"/>
 </p>
 
-### 🗄️ Database & Build Tools
+### Database
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,oracle" height="55"/>
 </p>
 
-### 🐳 DevOps & Containerization
+### DevOps & Deployment
 
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" height="55"/>
 </p>
 
 ---
@@ -52,17 +66,6 @@ I build backend applications and distributed systems using Java and Spring Boot,
 
 ---
 
-## 📌 Featured Project
-
-### ⚡ EV Charging Station Management System
-
-A backend-focused microservices project built with:
-
-**Spring Boot • Microservices • Apache Kafka • Redis • MySQL • Spring Security • Docker • Kubernetes**
-
-The system manages users, charging stations, chargers, bookings, payments, and notifications using distributed services and event-driven communication.
-
----
 
 ## 💡 Engineering Interests
 
